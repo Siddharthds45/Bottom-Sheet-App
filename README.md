@@ -2,7 +2,7 @@
 
 A simple, customizable bottom sheet component with smooth animations.
 
-![App Screenshot](./public/screenshot.png)
+![App Screenshot](https://github.com/Siddharthds45/Bottom-Sheet-App/tree/main/public/ScreenSort)
 
 ## Features
 - Drag up/down to open/close
